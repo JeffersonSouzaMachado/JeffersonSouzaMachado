@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @JeffersonSouzaMachado
-- 👀 I’m interested in Java, JS, Python and everthing that can I learn...
-- 🌱 I’m currently learning how to work on GIT and GitHub, Java and JS.
-- 💞️ I’m looking to collaborate on how many much projects that i can...
-- 📫 How to reach me on whatsApp +5512981604403, facebook.com/jeffsmachado, on linkedin.com/jeffmachado1989
+- 👋 Olá, muito prazer, me chamo Jefferson Machado, tenho 33 anos e sou de São José dos Campos, interior de São Paulo, seja bem vindo ao meu perfil!
+- 👀 Atualmente estou trabalhando como dev junior com DART/FLUTTER e estudando muito sobre esses dois carinhas!
+- 🌱 Estou desenvolvendo algumas habilidades em versionamento de código usando GIT e GITHUB e estudando muito JavaScript e React Native no SENAC.
+- 💞️ Para falar comigo, pode me chamar no WhatsApp ou Telegram no número +5512981604403 ou no linkedin.com/jeffmachado1989
 
 <!---
 JeffersonSouzaMachado/JeffersonSouzaMachado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
