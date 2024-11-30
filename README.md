@@ -3,7 +3,11 @@
 <h3>Sobre mim</h3> 
 
 <p>
-🔹Graduando em Análise e desenvolvimento de sistemas na UNICIV.
+🔹Graduando em Análise e desenvolvimento de sistemas na UNICIV Vincit.
+</p>
+
+<p>
+🔹Estudante de Python avançado no SENAI SJC.
 </p>
 
 <p>
