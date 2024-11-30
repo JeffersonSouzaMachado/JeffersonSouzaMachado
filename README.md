@@ -7,11 +7,11 @@
 </p>
 
 <p>
-🔹Estudante de Python avançado no SENAI SJC.
+🔹Desenvolvedor mobile pela Academia do Flutter.
 </p>
 
 <p>
-🔹Desenvolvedor mobile pela Academia do Flutter.
+🔹Estudante de Python avançado no SENAI SJC.
 </p>
 
 <p>
