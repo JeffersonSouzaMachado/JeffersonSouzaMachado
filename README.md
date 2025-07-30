@@ -11,11 +11,7 @@
 </p>
 
 <p>
-🔹Estudante de Python avançado no SENAI SJC.
-</p>
-
-<p>
-🔹Focado em desenvolvimento fullstack Java pela JDEV treinamentos.
+🔹Formado Python avançado pelo SENAI SJC.
 </p>
 
 <p>
