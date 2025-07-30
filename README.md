@@ -3,7 +3,7 @@
 <h3>Sobre mim</h3> 
 
 <p>
-🔹Graduando em Análise e desenvolvimento de sistemas na UNICIV Vincit.
+🔹Formado em Análise e desenvolvimento de sistemas na FACINT.
 </p>
 
 <p>
