@@ -7,7 +7,7 @@
 </p>
 
 <p>
-🔹Desenvolvedor mobile Flutter e React Native
+🔹Desenvolvedor mobile Flutter
 </p>
 
 <p>
@@ -16,10 +16,6 @@
 
 <p>
 🔹Designer Gráfico pelo SENAC.
-</p>
-
-<p>
-🔹Consumidor assíduo da Udemy e Alura.
 </p>
 
 
